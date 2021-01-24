@@ -1,0 +1,58 @@
+body {
+    background-color: gray;
+}
+#balkep {
+    height: 125px;
+    width: 225px;
+    float: left;
+    box-shadow: 5px 10px #1D1D4E;
+    margin-right: 7px;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+p {
+    color: white;
+}
+#jobbkep {
+    height: 250px;
+    width: 450px;
+    box-shadow: 5px 10px #1D1D4E;
+    float: right;
+    margin: 5px;
+}
+.fejsor {
+    text-align: center;
+    background-color: #1D1D4E;
+    font-weight: bold;
+}
+table {
+    color: white;
+    box-shadow: 5px 10px #1D1D4E;
+}
+table, tr, td {
+    border: 1px solid #1D1D4E;
+    border-collapse: collapse;
+    margin: 4px;
+    padding: 4px;
+}
+.baloldal {
+    font-weight: bold;
+}
+.jobboldal {
+   font-style: italic;
+}
+.forras {
+    text-align: center;
+    font-weight: bold;
+}
+a:link a:visited {
+    color: purple;
+}
+a:active {
+    color: red;
+}
